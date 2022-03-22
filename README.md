@@ -11,7 +11,15 @@ You can click the Preview link to take a look at your changes.
 [Aditya](aditya.com) 
 
 Name = "©Aditya pandi™® "
+
+
 coding = "beginning™"
+
+
 age = "19"
+
+
 college = "industrial training Institute"
+
+
 country = "IN™"
